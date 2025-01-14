@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevOpsMeanRev
 - 👀 I’m interested in Cloud And Devops
-- 🌱 I’m currently learning DevOps And DevSecOps
+- 🌱 I’m currently Practicing DevOps And DevSecOps
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me dinesh@meanrev.com
 
